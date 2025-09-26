@@ -158,8 +158,8 @@
       "is_adult": false
     },
     "dyttzyapi": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "TV-电影天堂资源",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "TV-电影天堂",
       "detail": "http://caiji.dyttzyapi.com",
       "is_adult": false
     },
@@ -242,7 +242,7 @@
       "is_adult": false
     },
     "ffzyapi": {
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "name": "TV-非凡资源",
       "detail": "https://cj.ffzyapi.com",
       "is_adult": false
@@ -522,7 +522,7 @@
       "is_adult": false
       },
        "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
@@ -544,7 +544,7 @@
       "name": "天涯资源"
     },
     "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "api": "https://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视5",
       "detail": "http://ffzy5.tv"
     },
@@ -558,7 +558,7 @@
     },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
+      "name": "卧龙资源2"
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -599,7 +599,7 @@
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+      "name": "量子资源"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
