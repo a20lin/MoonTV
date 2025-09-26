@@ -229,9 +229,9 @@
       "detail": "https://sdzyapi.com",
       "is_adult": false
     },
-    "ffzyapi": {
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-      "name": "TV-非凡资源4",
+    "tyzyapi": {
+      "api": "https://ty.tyyszy5.com/api.php/provide/vod",
+      "name": "TV-天涯资源3",
       "detail": "https://cj.ffzyapi.com",
       "is_adult": false
     },
@@ -514,9 +514,9 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
-    "ffzy": {
-      "api": "https://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视5",
+    "tyyszyapi": {
+      "api": "https://tyyszyapi.com/api.php/provide/vod",
+      "name": "天涯资源2",
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
