@@ -163,6 +163,12 @@
       "detail": "https://api.bwzyz.com",
       "is_adult": true
     },
+    "dyttzyapi": {
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "TV-电影天堂",
+      "detail": "http://caiji.dyttzyapi.com",
+      "is_adult": false
+    },
     "apibdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "TV-百度云资源",
