@@ -1,12 +1,6 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "1080zyku": {
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "name": "TV-1080资源",
-      "detail": "https://api.1080zyku.com",
-      "is_adult": false
-    },
     "155api": {
       "api": "https://155api.com/api.php/provide/vod",
       "name": "AV-155资源",
@@ -14,19 +8,19 @@
       "is_adult": true
     },
     "360zy": {
-      "api": "https://360zy.com/api.php/provide/vod",
+      "api": "https://360zyzz.com/api.php/provide/vod",
       "name": "TV-360资源",
       "detail": "https://360zy.com",
       "is_adult": false
     },
     "ckzy": {
       "api": "https://ckzy.me/api.php/provide/vod",
-      "name": "TV-CK资源",
+      "name": "AV-CK资源",
       "detail": "https://ckzy.me",
       "is_adult": false
     },
     "ukuapi": {
-      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "name": "TV-U酷资源",
       "detail": "https://api.ukuapi.com",
       "is_adult": false
@@ -416,8 +410,8 @@
       "is_adult": true
     },
     "ffzynew": {
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "name": "非凡影视2",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡影视综合",
       "detail": "http://ffzy5.tv",
       "is_adult": false
     },
@@ -551,7 +545,7 @@
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
+      "name": "非凡影视5",
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
